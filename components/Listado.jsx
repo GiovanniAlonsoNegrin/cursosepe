@@ -1,13 +1,9 @@
-const Listado = () => {
-	return (
-		<div>
-			<ul>
-				<li>Persa</li>
-				<li>British</li>
-				<li>Siamés</li>
-			</ul>
-		</div>
-	);
-};
+import React from 'react'
 
-export default Listado;
+const Listado = () => {
+  return (
+	<div>Listado</div>
+  )
+}
+
+export default Listado
